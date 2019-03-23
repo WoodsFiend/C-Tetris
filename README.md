@@ -6,15 +6,22 @@ TETRIS by Curtis Naples 2019
 
 ## Game Features
 Single and Multiplayer
+
 Saved Leaderboard
 
 ## Things Learned
 SFML
+
 Creating a modular program from the bottom up
+
 Better understanding of concepts like Classes, Scope, Inheritance
+
 How to use Structs
+
 X and Y co-ordinate translation
+
 Practice with Vectors/Arrays, Multi-Dimensional Arrays and loop logic
+
 Practice reading documentation from a brand new api
 
 
